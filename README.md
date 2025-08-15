@@ -17,38 +17,38 @@ I’m passionate about building **scalable backend systems**, **data pipelines**
 
 ## 🛠 Tech Stack  
 
-**Languages**  
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)  
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)  
-![Golang](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)  
+**Languages:**  
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) • 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) • 
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) • 
+![Golang](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white) • 
 ![SQL](https://img.shields.io/badge/SQL-003B57?logo=postgresql&logoColor=white)  
 
-**Frameworks & Tools**  
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)  
-![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)  
-![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)  
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white)  
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)  
-![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)  
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?logo=react&logoColor=black)  
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white)  
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?logo=playwright&logoColor=white)  
-![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)  
-![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?logo=apachekafka&logoColor=white)  
-![Apache Superset](https://img.shields.io/badge/Superset-1A73E8?logo=apache&logoColor=white)  
+**Frameworks & Tools:**  
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white) • 
+![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white) • 
+![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white) • 
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white) • 
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) • 
+![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white) • 
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?logo=react&logoColor=black) • 
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white) • 
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?logo=playwright&logoColor=white) • 
+![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white) • 
+![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?logo=apachekafka&logoColor=white) • 
+![Apache Superset](https://img.shields.io/badge/Superset-1A73E8?logo=apache&logoColor=white) • 
 ![Metabase](https://img.shields.io/badge/Metabase-509EE3?logo=metabase&logoColor=white)  
 
-**Databases**  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)  
+**Databases:**  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white) • 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white) • 
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) • 
 ![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC00?logo=clickhouse&logoColor=black)  
 
-**DevOps & Cloud**  
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)  
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)  
+**DevOps & Cloud:**  
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white) • 
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) • 
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white) • 
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-555555?logo=githubactions&logoColor=white)  
 
 ---
