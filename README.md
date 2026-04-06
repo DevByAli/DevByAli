@@ -64,8 +64,8 @@ I’m passionate about building **scalable backend systems**, **data pipelines**
 
 ## 📈 GitHub Stats  
 
-![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevByAli&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevByAli&layout=compact&theme=tokyonight)  
+![Ali's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=DevByAli&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DevByAli&layout=compact&theme=tokyonight)  
 
 ---
 
