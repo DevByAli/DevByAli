@@ -43,6 +43,7 @@ I’m passionate about building **scalable backend systems**, **data pipelines**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) 
 ![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC00?logo=clickhouse&logoColor=black)  
+![TimescaleDB](https://img.shields.io/badge/TimescaleDB-003B77?logo=timescaledb&logoColor=white)  
 
 **DevOps & Cloud:**  
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white) 
