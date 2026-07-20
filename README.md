@@ -154,42 +154,6 @@ Frontend    ██████████████░░░░░░  Fluent
 
 <br>
 
-## `~/projects --featured`
-
-```
-   ╭──────────────────────────────────────────────────────────────╮
-   │  📚  LEARNING MANAGEMENT SYSTEM                    [ LIVE ]    │
-   │  ────────────────────────────────────────────────────────    │
-   │  Course platform · real-time notifications · analytics ·      │
-   │  secure Stripe payments                                       │
-   │  ▸ FastAPI · React · PostgreSQL · Redis · Stripe              │
-   ╰──────────────────────────────────────────────────────────────╯
-
-   ╭──────────────────────────────────────────────────────────────╮
-   │  📖  BOOK STORE                                    [ LIVE ]    │
-   │  ────────────────────────────────────────────────────────    │
-   │  Real-time order tracking · secure checkout ·                 │
-   │  dual notification system (customers + admins)                │
-   │  ▸ Node.js · MongoDB · WebSockets                            │
-   ╰──────────────────────────────────────────────────────────────╯
-
-   ╭──────────────────────────────────────────────────────────────╮
-   │  🎵  VIDEO → MP3 CONVERTER                         [ LIVE ]    │
-   │  ────────────────────────────────────────────────────────    │
-   │  Microservices architecture that scales horizontally          │
-   │  ▸ Flask · RabbitMQ · Kubernetes · MongoDB · Postgres        │
-   ╰──────────────────────────────────────────────────────────────╯
-
-   ╭──────────────────────────────────────────────────────────────╮
-   │  🍔  FOOD DELIVERY APP                             [ LIVE ]    │
-   │  ────────────────────────────────────────────────────────    │
-   │  Cross-platform mobile · live GPS tracking                    │
-   │  ▸ React Native · AppWrite                                    │
-   ╰──────────────────────────────────────────────────────────────╯
-```
-
-<br>
-
 ## `~/war-stories.log`
 
 > Real problems. Real wins. Receipts below. 🧾
