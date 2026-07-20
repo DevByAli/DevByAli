@@ -44,7 +44,6 @@ class AliTariq(SoftwareEngineer):
         self.role         = "Backend Specialist"
         self.obsession    = "Scalable systems & data pipelines"
         self.superpower   = "Making slow things fast"
-        self.location     = "Punjab, PK 🇵🇰"
         self.coffee_level = float("inf")
 
     def daily_routine(self):
