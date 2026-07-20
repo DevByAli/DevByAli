@@ -76,7 +76,7 @@ class AliTariq(SoftwareEngineer):
 
 **What actually gets me out of bed:**
 
-I like the moment a system stops being a pile of scripts and starts behaving like an *organism* — data flowing in, transforming, landing where it should, in milliseconds. Backend work is invisible when it's done right, and I love that quiet kind of craftsmanship.
+I like the moment a system stops being a pile of scripts and starts behaving like an *organism*, data flowing in, transforming, landing where it should, in milliseconds. Backend work is invisible when it's done right, and I love that quiet kind of craftsmanship.
 
 **How I work:**
 - I profile before I optimize. Guessing is expensive.
@@ -110,7 +110,7 @@ I like the moment a system stops being a pile of scripts and starts behaving lik
 ## `~/arsenal --list`
 
 <div align="center">
-<sub>👇 Each stack is collapsed — <b>click a category to expand it</b></sub>
+<sub>👇 Each stack is collapsed. <b>Click a category to expand it</b></sub>
 </div>
 
 <br>
@@ -206,7 +206,7 @@ SQL         █████████████████░░░  Advanc
 > <br><sub>Click any story to read how it went down.</sub>
 
 <details>
-<summary>⚡ <b>The 100x query</b> — MongoDB aggregation: 5+ min to under 3 sec</summary>
+<summary>⚡ <b>The 100x query</b>: MongoDB aggregation: 5+ min to under 3 sec</summary>
 
 <br>
 
@@ -220,25 +220,25 @@ A core aggregation was crippling the dashboard. I restructured the pipeline stag
 </details>
 
 <details>
-<summary>🌊 <b>Pipelines that never sleep</b> — real-time Kafka ETL</summary>
+<summary>🌊 <b>Pipelines that never sleep</b>: real-time Kafka ETL</summary>
 
 <br>
 
-Designed and shipped Kafka-based ETL pipelines that ingest and transform real-time event streams continuously — decoupled producers and consumers, resilient to bursts, and built to keep flowing without manual babysitting.
+Designed and shipped Kafka-based ETL pipelines that ingest and transform real-time event streams continuously, decoupled producers and consumers, resilient to bursts, and built to keep flowing without manual babysitting.
 
 </details>
 
 <details>
-<summary>☁️ <b>Cloud at scale</b> — ClickHouse + Superset on AWS</summary>
+<summary>☁️ <b>Cloud at scale</b>: ClickHouse + Superset on AWS</summary>
 
 <br>
 
-Deployed ClickHouse clusters and Superset dashboards on AWS, turning raw event data into analytics stakeholders could actually explore — fast columnar queries feeding live visualizations.
+Deployed ClickHouse clusters and Superset dashboards on AWS, turning raw event data into analytics stakeholders could actually explore, fast columnar queries feeding live visualizations.
 
 </details>
 
 <details>
-<summary>🤖 <b>Teaching the backend to think</b> — ML in production</summary>
+<summary>🤖 <b>Teaching the backend to think</b>: ML in production</summary>
 
 <br>
 
@@ -247,11 +247,11 @@ Integrated machine learning services into production backend systems, bridging t
 </details>
 
 <details>
-<summary>👥 <b>Lifting the team</b> — reviews & mentorship</summary>
+<summary>👥 <b>Lifting the team</b>: reviews & mentorship</summary>
 
 <br>
 
-Led code reviews and mentored teammates toward cleaner, more maintainable code — because a fast system nobody else can maintain isn't actually fast.
+Led code reviews and mentored teammates toward cleaner, more maintainable code, because a fast system nobody else can maintain isn't actually fast.
 
 </details>
 
