@@ -271,10 +271,11 @@ Led code reviews and mentored teammates toward cleaner, more maintainable code �
 
 <div align="center">
 
+<!-- ░░░  TROPHY CASE  ░░░ -->
 
-## `~/stats --show`
+![Trophies](https://github-profile-trophy.vercel.app/?username=DevByAli&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8)
 
-<div align="center">
+<br>
 
 ![Ali's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=DevByAli&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
 
@@ -324,5 +325,3 @@ Led code reviews and mentored teammates toward cleaner, more maintainable code �
 <div align="center">
 <sub>⭐ <i>"First, solve the problem. Then, write the code."</i> · John Johnson</sub>
 </div>
-
-<br>
