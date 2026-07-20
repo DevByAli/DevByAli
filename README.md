@@ -75,8 +75,6 @@ class AliTariq(SoftwareEngineer):
 
 ![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
 
-<sub>💡 Tip: enable this by adding the <a href="https://github.com/Platane/snk">Platane/snk</a> GitHub Action to your profile repo</sub>
-
 </div>
 
 <br>
