@@ -269,8 +269,6 @@ Led code reviews and mentored teammates toward cleaner, more maintainable code, 
 
 ![Streak](https://streak-stats.demolab.com?user=DevByAli&theme=tokyonight&hide_border=true)
 
-![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DevByAli&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
-
 <!-- ░░░  ACTIVITY GRAPH  ░░░ -->
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DevByAli&theme=tokyo-night&hide_border=true&area=true)
