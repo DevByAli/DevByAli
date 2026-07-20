@@ -261,9 +261,15 @@ Led code reviews and mentored teammates toward cleaner, more maintainable code, 
 
 <div align="center">
 
-<!-- ░░░  TROPHY CASE  ░░░ -->
+<!-- ░░░  PROFILE SUMMARY CARDS (reliable, actively maintained)  ░░░ -->
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=DevByAli&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8)
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DevByAli&theme=tokyonight)
+
+![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DevByAli&theme=tokyonight)
+![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DevByAli&theme=tokyonight)
+
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DevByAli&theme=tokyonight)
+![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DevByAli&theme=tokyonight&utcOffset=5)
 
 <br>
 
