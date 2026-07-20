@@ -212,5 +212,5 @@ Frontend    ██████████████░░░░░░  Fluent
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:E10098,50:3776AB,100:00ADD8&height=140&section=footer&text=Thanks%20for%20scrolling!&fontSize=22&fontColor=ffffff&animation=twinkling&fontAlignY=70)
 
 <div align="center">
-<sub>⭐ <i>"First, solve the problem. Then, write the code."</i> — John Johnson</sub>
+<sub>⭐ <i>"First, solve the problem. Then, write the code."</i> · John Johnson</sub>
 </div>
