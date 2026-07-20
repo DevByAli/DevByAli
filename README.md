@@ -17,16 +17,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00ADD8&center=true&vCenter=true&width=700&lines=%24+whoami;%3E+I+turn+5-minute+queries+into+3-second+answers.;%3E+I+build+pipelines+that+never+sleep.;%3E+I+speak+Python%2C+Go%2C+and+the+language+of+scale.;%3E+Give+me+a+bottleneck.+I%27ll+give+you+a+benchmark.)](https://git.io/typing-svg)
 
-<!-- ░░░░░░░░░░░░░░░░░  CLICKABLE NAV BAR  ░░░░░░░░░░░░░░░░░ -->
-
-### 🧭 Jump to
-
-[![About](https://img.shields.io/badge/01-whoami-00ADD8?style=for-the-badge)](#-whoamish)
-[![Arsenal](https://img.shields.io/badge/02-arsenal-3776AB?style=for-the-badge)](#-arsenal---list)
-[![Wins](https://img.shields.io/badge/03-war_stories-E10098?style=for-the-badge)](#-war-storieslog)
-[![Stats](https://img.shields.io/badge/04-stats-DC382D?style=for-the-badge)](#-stats---show)
-[![Connect](https://img.shields.io/badge/05-connect-509EE3?style=for-the-badge)](#-connect---now)
-
 </div>
 
 ```
