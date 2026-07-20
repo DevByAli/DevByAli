@@ -1,131 +1,124 @@
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 <!--                                                                       -->
-<!--            ▄▀█ █░░ █   ▀█▀ ▄▀█ █▀█ █ █▀█   █▀▀ █▀█ █▀▀ █░█ ▄▀█ █░░    -->
-<!--            █▀█ █▄▄ █   ░█░ █▀█ █▀▄ █ ▀▀█   █▄█ █▀▄ ██▄ ▀▄▀ █▀█ █▄▄    -->
+<!--        ⏃ ⏚ ⏄ ⌇ ⏁    T R A N S M I S S I O N   O R I G I N - 7    ⏆ ⌖  -->
 <!--                                                                       -->
-<!--                 code is poetry · systems are symphonies              -->
+<!--              signal intercepted · entity decoded · friendly          -->
 <!--                                                                       -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<!-- ░░░░░░░░░░░░░░░░░  ANIMATED HEADER WAVE  ░░░░░░░░░░░░░░░░░ -->
+<!-- ░░░░░░░░░░░░░░░░░  AURORA SIGNAL BANNER  ░░░░░░░░░░░░░░░░░ -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:00ADD8,50:3776AB,100:E10098&height=220&section=header&text=Ali%20Tariq&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Architect%20•%20Data%20Whisperer%20•%20Systems%20Builder&descAlignY=58&descSize=18)
+![header](https://capsule-render.vercel.app/api?type=venom&color=0:5df2ff,50:9d7bff,100:ff5de1&height=240&section=header&text=Ali%20Tariq&fontSize=74&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=%E2%97%A6%20SOURCE%20UNKNOWN%20%C2%B7%20ENTITY%20DECODED%20%C2%B7%20SIGNAL%20FROM%20THE%20DEEP%20%E2%97%A6&descAlignY=60&descSize=16)
 
-<!-- ░░░░░░░░░░░░░░░░░  TYPING ANIMATION  ░░░░░░░░░░░░░░░░░ -->
+`⏃ ⏚ ⏄ ⌇ ⏁ ⏀ ⌖ ⏆ ⍟`
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00ADD8&center=true&vCenter=true&width=700&lines=%24+whoami;%3E+I+turn+5-minute+queries+into+3-second+answers.;%3E+I+build+pipelines+that+never+sleep.;%3E+I+speak+Python%2C+Go%2C+and+the+language+of+scale.;%3E+Give+me+a+bottleneck.+I%27ll+give+you+a+benchmark.)](https://git.io/typing-svg)
+**Architect of Systems · Weaver of Data-Streams · Signal from the Deep**
+
+`◈ ORIGIN COORDINATES // SECTOR: PUNJAB-PK · CARRIER: DevByAli`
+
+<!-- ░░░░░░░░░░░░░░░░░  DECODING SIGNAL (TYPING)  ░░░░░░░░░░░░░░░░░ -->
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=800&color=5DF2FF&center=true&vCenter=true&width=720&lines=%24+decode+--entity;%3E+I+bend+5-minute+queries+into+3-second+answers.;%3E+I+forge+streams+that+never+rest.;%3E+I+speak+Python%2C+Go%2C+and+the+language+of+scale.;%3E+Name+a+bottleneck.+I+return+a+benchmark.)](https://git.io/typing-svg)
 
 </div>
 
 ```
     ╔══════════════════════════════════════════════════════════════╗
     ║                                                                ║
-    ║     $ sudo ./initialize --engineer "Ali Tariq"                 ║
+    ║     > establishing uplink to unknown source...                 ║
     ║                                                                ║
-    ║     [■■■■■■■■■■] 100%  Loading backend superpowers...          ║
-    ║     [■■■■■■■■■■] 100%  Warming up data pipelines...            ║
-    ║     [■■■■■■■■■■] 100%  Optimizing queries (5min > 3s) ⚡        ║
-    ║     [■■■■■■■■■■] 100%  Deploying to the cloud ☁️                ║
+    ║     [▁▂▃▄▅▆▇█]  signal acquired · decrypting entity profile     ║
+    ║     [████████]  100%  translating alien schema (5min > 3s) ⚡   ║
+    ║     [████████]  100%  stabilizing data-streams across the void  ║
     ║                                                                ║
-    ║     >> Status: READY TO SHIP 🚀                                ║
+    ║     >> TRANSMISSION LOCKED · ENTITY IS FRIENDLY 🛸              ║
     ║                                                                ║
     ╚══════════════════════════════════════════════════════════════╝
 ```
 
 <br>
 
-## `~/whoami.sh`
+## ⟢ `PACKET 01 :: ORIGIN`
 
 ```python
-class AliTariq(SoftwareEngineer):
-    def __init__(self):
-        self.role         = "Backend Specialist"
-        self.obsession    = "Scalable systems & data pipelines"
-        self.superpower   = "Making slow things fast"
-        self.location     = "Punjab, PK 🇵🇰"
-        self.coffee_level = float("inf")
+entity AliTariq from deep_space:
+    origin      = "Backend dimension"
+    resonance   = "Scalable systems & data-streams"
+    power_field = "Making slow things fast"
+    home_sector = "Punjab, PK 🌌"
+    energy      = float("inf")
 
-    def daily_routine(self):
-        while awake:
-            build(scalable_backends)
-            optimize(complex_queries)
-            stream(real_time_data)
-            review(pull_requests, kindness=True)
-            if bug_found:
-                self.hunt(bug, relentless=True)
-
-    @property
-    def philosophy(self):
-        return "Clean code. Fast systems. Real-world impact."
+    while transmitting:
+        forge(scalable_backends)
+        bend(complex_queries, into=speed)
+        channel(real_time_streams)
+        if anomaly_detected:
+            resolve(anomaly, relentless=True)
 ```
 
-<!-- ░░░  INTERACTIVE: EXPANDABLE DEEP-DIVE  ░░░ -->
-
 <details>
-<summary><b>🔓 Click to decrypt the full profile...</b></summary>
+<summary><b>⌖ Decrypt deeper signal fragment...</b></summary>
 
 <br>
 
 > ```
-> ┌─ DECRYPTING PROFILE ────────────────────────────────┐
-> │  access granted ✓                                    │
-> └──────────────────────────────────────────────────────┘
+> ┌─ DECRYPTING FRAGMENT ────────────────────────────────┐
+> │  translation stable ✓                                 │
+> └───────────────────────────────────────────────────────┘
 > ```
 
-**What actually gets me out of bed:**
+**What powers this entity:** the instant a system stops being scattered debris and begins moving like a *living constellation*, data flowing in, transforming, arriving where it must, across milliseconds. Good backend work is invisible, and this entity is drawn to that silent craft.
 
-I like the moment a system stops being a pile of scripts and starts behaving like an *organism*, data flowing in, transforming, landing where it should, in milliseconds. Backend work is invisible when it's done right, and I love that quiet kind of craftsmanship.
+**Operating principles across the void:**
+- Measure before altering. Blind guesses cost fuel.
+- Leave code any traveler can read mid-crisis.
+- The finest pipeline is one no one must think about.
 
-**How I work:**
-- I profile before I optimize. Guessing is expensive.
-- I write code my teammates can read at 2am during an incident.
-- I believe the best pipeline is the one nobody has to think about.
-
-**Off the keyboard:** endless coffee, reading about distributed systems, and occasionally losing an afternoon to a benchmark I "just wanted to check."
+**When the signal quiets:** infinite coffee, star-charts of distributed systems, and afternoons lost to a benchmark it "only meant to glance at."
 
 </details>
 
 <br>
 
-<!-- ░░░░░░░░░░░░░░░░░  SNAKE ANIMATION  ░░░░░░░░░░░░░░░░░ -->
+<!-- ░░░░░░░░░░░░░░░░░  SNAKE (ROGUE PROBE)  ░░░░░░░░░░░░░░░░░ -->
 
 <div align="center">
 
 ```
   ┌─────────────────────────────────────────────────────────────┐
-  │  ●───●───●───●   watch my contributions get eaten >  🐍       │
+  │  a rogue probe drifts across the signal-grid, consuming it 🛸  │
   └─────────────────────────────────────────────────────────────┘
 ```
 
 ![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
 
-<sub>💡 Enable via the <a href="https://github.com/Platane/snk">Platane/snk</a> GitHub Action</sub>
+<sub>◦ Deploy the probe via the <a href="https://github.com/Platane/snk">Platane/snk</a> action</sub>
 
 </div>
 
 <br>
 
-## `~/arsenal --list`
+## ⟢ `PACKET 02 :: ENERGY SIGNATURES`
 
 <div align="center">
-<sub>👇 Each stack is collapsed. <b>Click a category to expand it</b></sub>
+<sub>◦ each signature is dormant. <b>open a fragment to read its frequency</b></sub>
 </div>
 
 <br>
 
 <details open>
-<summary><b>🧠 Languages I Think In</b></summary>
+<summary><b>◇ Core Languages · primary frequencies</b></summary>
 
 <br>
 
 ```
-Python      ████████████████████  Expert
-TypeScript  ██████████████████░░  Advanced
-Golang      █████████████████░░░  Advanced
-JavaScript  ██████████████████░░  Advanced
-SQL         █████████████████░░░  Advanced
+Python      ████████████████████  MAX
+TypeScript  ██████████████████░░  HIGH
+Golang      █████████████████░░░  HIGH
+JavaScript  ██████████████████░░  HIGH
+SQL         █████████████████░░░  HIGH
 ```
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -137,7 +130,7 @@ SQL         █████████████████░░░  Advanc
 </details>
 
 <details>
-<summary><b>⚙️ Backend & Frameworks</b></summary>
+<summary><b>◇ Backend Constructs · frameworks</b></summary>
 
 <br>
 
@@ -150,7 +143,7 @@ SQL         █████████████████░░░  Advanc
 </details>
 
 <details>
-<summary><b>🎨 Frontend & Mobile</b></summary>
+<summary><b>◇ Surface Interfaces · frontend & mobile</b></summary>
 
 <br>
 
@@ -162,7 +155,7 @@ SQL         █████████████████░░░  Advanc
 </details>
 
 <details>
-<summary><b>🌊 Data, Streaming & Analytics</b></summary>
+<summary><b>◇ Stream Cores · data & analytics</b></summary>
 
 <br>
 
@@ -174,7 +167,7 @@ SQL         █████████████████░░░  Advanc
 </details>
 
 <details>
-<summary><b>🗄️ Databases</b></summary>
+<summary><b>◇ Memory Vaults · databases</b></summary>
 
 <br>
 
@@ -187,7 +180,7 @@ SQL         █████████████████░░░  Advanc
 </details>
 
 <details>
-<summary><b>☁️ DevOps & Cloud</b></summary>
+<summary><b>◇ Orbital Infrastructure · devops & cloud</b></summary>
 
 <br>
 
@@ -200,64 +193,64 @@ SQL         █████████████████░░░  Advanc
 
 <br>
 
-## `~/war-stories.log`
+## ⟢ `PACKET 03 :: LOGGED ANOMALIES`
 
-> Real problems. Real wins. Receipts below. 🧾
-> <br><sub>Click any story to read how it went down.</sub>
+> Strange events recorded across the mission. Signals below. 🛰
+> <br><sub>open any log to read how it unfolded.</sub>
 
 <details>
-<summary>⚡ <b>The 100x query</b>: MongoDB aggregation: 5+ min to under 3 sec</summary>
+<summary>⚡ <b>The Hundredfold Collapse</b> · time bent 5+ min into under 3 sec</summary>
 
 <br>
 
 ```diff
-  BEFORE:  ████████████████████████  5m 12s  😴
+  BEFORE:  ████████████████████████  5m 12s  ⌛
   AFTER:   █                          2.7s   ⚡
 ```
 
-A core aggregation was crippling the dashboard. I restructured the pipeline stages, added the right compound indexes, and pushed filtering as early as possible so Mongo scanned far fewer documents. Result: a **100x** speedup and a dashboard that finally felt instant.
+A core aggregation was collapsing the entire dashboard's timeline. The entity restructured the pipeline stages, forged the right compound indexes, and pushed filtering to the earliest possible moment so fewer documents were ever scanned. Outcome: a **100x** acceleration, and a dashboard that finally felt instant.
 
 </details>
 
 <details>
-<summary>🌊 <b>Pipelines that never sleep</b>: real-time Kafka ETL</summary>
+<summary>🌊 <b>Streams That Never Rest</b> · real-time Kafka current</summary>
 
 <br>
 
-Designed and shipped Kafka-based ETL pipelines that ingest and transform real-time event streams continuously, decoupled producers and consumers, resilient to bursts, and built to keep flowing without manual babysitting.
+Forged Kafka-based ETL streams that ingest and transform real-time events without pause, decoupled emitters and receivers, resilient to surges, built to keep flowing across the void unattended.
 
 </details>
 
 <details>
-<summary>☁️ <b>Cloud at scale</b>: ClickHouse + Superset on AWS</summary>
+<summary>🛰 <b>Orbital Analytics</b> · ClickHouse + Superset on AWS</summary>
 
 <br>
 
-Deployed ClickHouse clusters and Superset dashboards on AWS, turning raw event data into analytics stakeholders could actually explore, fast columnar queries feeding live visualizations.
+Deployed ClickHouse clusters and Superset dashboards into AWS orbit, turning raw signal into analytics that observers could actually navigate, fast columnar queries feeding living visualizations.
 
 </details>
 
 <details>
-<summary>🤖 <b>Teaching the backend to think</b>: ML in production</summary>
+<summary>🤖 <b>The Thinking Machine</b> · ML woven into production</summary>
 
 <br>
 
-Integrated machine learning services into production backend systems, bridging the gap between model outputs and real API responses that users depend on.
+Wove machine-learning cores into production backend systems, bridging model predictions and the real responses travelers depend upon.
 
 </details>
 
 <details>
-<summary>👥 <b>Lifting the team</b>: reviews & mentorship</summary>
+<summary>👥 <b>Lifting the Fleet</b> · reviews & mentorship</summary>
 
 <br>
 
-Led code reviews and mentored teammates toward cleaner, more maintainable code, because a fast system nobody else can maintain isn't actually fast.
+Guided code reviews and mentored fellow engineers toward cleaner, more maintainable code, because a fast system no one else can steer is not truly fast.
 
 </details>
 
 <br>
 
-## `~/stats --show`
+## ⟢ `PACKET 04 :: TELEMETRY`
 
 <div align="center">
 
@@ -269,7 +262,7 @@ Led code reviews and mentored teammates toward cleaner, more maintainable code, 
 
 ![Streak](https://streak-stats.demolab.com?user=DevByAli&theme=tokyonight&hide_border=true)
 
-<!-- ░░░  ACTIVITY GRAPH  ░░░ -->
+<!-- ░░░  CONTRIBUTION STAR-MAP  ░░░ -->
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DevByAli&theme=tokyo-night&hide_border=true&area=true)
 
@@ -277,37 +270,43 @@ Led code reviews and mentored teammates toward cleaner, more maintainable code, 
 
 <br>
 
-## `~/connect --now`
+## ⟢ `PACKET 05 :: OPEN A CHANNEL`
 
 <div align="center">
 
 ```
     ┌───────────────────────────────────────────────────────┐
-    │   Got a hard problem? A slow query? A wild idea?        │
-    │   My inbox is always open. Let's build something.       │
+    │  A hard problem drifting through space? A slow query?  │
+    │  A wild idea worth a signal? This channel stays open.  │
     └───────────────────────────────────────────────────────┘
 ```
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_talk-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ali-tariq-grewal)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow_me-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DevByAli)
-[![Email](https://img.shields.io/badge/Email-Say_hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ali.tariq.grewal@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-open_channel-5DF2FF?style=for-the-badge&logo=linkedin&logoColor=black)](https://linkedin.com/in/ali-tariq-grewal)
+[![GitHub](https://img.shields.io/badge/GitHub-follow_the_signal-9D7BFF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DevByAli)
+[![Email](https://img.shields.io/badge/Email-send_a_message-FF5DE1?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ali.tariq.grewal@gmail.com)
 
 <br>
 
-<!-- ░░░  RANDOM DEV QUOTE (refreshes on reload)  ░░░ -->
+<!-- ░░░  SIGNAL FROM THE ARCHIVE (RANDOM QUOTE)  ░░░ -->
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=DevByAli&style=for-the-badge&color=00ADD8&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=DevByAli&style=for-the-badge&color=5DF2FF&label=SIGNALS+RECEIVED)
 
 </div>
 
-<!-- ░░░░░░░░░░░░░░░░░  FOOTER WAVE  ░░░░░░░░░░░░░░░░░ -->
+<div align="center">
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:E10098,50:3776AB,100:00ADD8&height=140&section=footer&text=Thanks%20for%20scrolling!&fontSize=22&fontColor=ffffff&animation=twinkling&fontAlignY=70)
+`✦ · ✧ · ⋆ · ✦ · ˚ · ✧ · ⋆ · ✦ · ✧ · ˚ · ✦ · ⋆ · ✧ · ✦`
+
+</div>
+
+<!-- ░░░░░░░░░░░░░░░░░  TRANSMISSION END  ░░░░░░░░░░░░░░░░░ -->
+
+![footer](https://capsule-render.vercel.app/api?type=venom&color=0:ff5de1,50:9d7bff,100:5df2ff&height=150&section=footer&text=%2F%2F%20END%20OF%20TRANSMISSION&fontSize=22&fontColor=ffffff&animation=twinkling&fontAlignY=68)
 
 <div align="center">
-<sub>⭐ <i>"First, solve the problem. Then, write the code."</i> · John Johnson</sub>
+<sub>⟢ <i>"First, solve the problem. Then, write the code."</i> · a traveler named John Johnson</sub>
 </div>
